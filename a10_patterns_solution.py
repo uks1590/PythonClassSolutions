@@ -1,5 +1,5 @@
 #Python program to print the output in the desired format
-#comments added on feb 8
+
 # pattern method takes the input_char, line_count and display_mode
 # Each formal argument provides a default value
 # for incorrect display_mode, the method defaults to RIGHT
